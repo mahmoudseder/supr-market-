@@ -1,0 +1,32 @@
+header {
+	background: SlateGray;
+	text-align: center;
+}
+
+header h1 {
+	color: purple;
+}
+
+nav {
+	border: 2px solid black;
+	background: darkgray;
+}
+
+img {
+	width: 200px;
+}
+
+nav li {
+	display: inline;
+	margin: 5px;
+}
+
+.highlight {
+background: yellow;
+}
+
+#second-heading {
+background: red;
+}
+body {background: blueviolet;
+}
